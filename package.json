@@ -1,0 +1,26 @@
+{
+  "name": "pokemon-rng",
+  "version": "0.1.0",
+  "description": "Pokemon RNG library",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mkdasher/pokemon-rng.git"
+  },
+  "keywords": [
+    "pokemon",
+    "rng"
+  ],
+  "author": "MKDasher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkdasher/pokemon-rng/issues"
+  },
+  "homepage": "https://github.com/mkdasher/pokemon-rng#readme"
+}
